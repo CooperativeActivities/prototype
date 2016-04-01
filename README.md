@@ -3,7 +3,9 @@
 ## Checkout
 
 Move to a specific folder, then
+```
 git clone https://github.com/fh-crac/prototype.git
+```
 
 ## Installation
 
